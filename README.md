@@ -28,6 +28,7 @@ This repository contains the tasks completed as part of my daily learnings.
 - Provides tips and fun facts about light, reflection, and dispersion
 <img width="1910" height="1015" alt="r11" src="https://github.com/user-attachments/assets/c270ee1d-f869-48f2-a882-84636d909562" />
 <img width="1918" height="1020" alt="r12" src="https://github.com/user-attachments/assets/c8feeeb7-8327-4325-9995-354741039011" />
+
 #### Task2_Ocean_Poem_HF
 Users can input their poem preferences:
 - **Topic** – e.g., love, rain, friendship, stars
