@@ -1,0 +1,18 @@
+[
+    {
+        "task": "Finish the project report",
+        "done": false
+    },
+    {
+        "task": "Pay electricity bill",
+        "done": true
+    },
+    {
+        "task": "Submit timesheet",
+        "done": false
+    },
+    {
+        "task": "Review code pull requests",
+        "done": true
+    }
+]
